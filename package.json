@@ -1,0 +1,13 @@
+{
+  "name": "class-in-ts-keisei-dev",
+  "version": "1.0.0",
+  "description": "TypeScript class practice — airport luggage",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
